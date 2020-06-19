@@ -1,0 +1,29 @@
+{
+	"appDesc": {
+		"message": "இணக்கத்துடன் உங்கள் நேரத்தை வீணாக்காதீர்கள். யுனிவர்சல் பைபாஸ் எரிச்சலூட்டும் இணைப்பு சுருக்கங்களை மீறுகிறது."
+	},
+	"firstrunTitle": {
+		"message": "سوپاس بۆ دامەزراندی Universal Bypass!"
+	},
+	"faq": {
+		"message": "ئەم پرسیارانەی زۆر کراون"
+	},
+	"options": {
+		"message": "هەڵبژاردنەکان"
+	},
+	"optionsEnabled": {
+		"message": "بەکارخستنی رێگاگرتنی وێبسایت."
+	},
+	"optionsUserscripts": {
+		"message": "دەربازبوونی نەریتی"
+	},
+	"beforeNavigateDestination": {
+		"message": "ئەو شوێنەی کە ذەچیت: %"
+	},
+	"crowdBypassed": {
+		"message": "لەوانەیە پێویست نەکات بوەستیت!"
+	},
+	"crowdBypassedIgnore": {
+		"message": "ئایە ئەمە ڕاست نەبوو؟"
+	}
+}
